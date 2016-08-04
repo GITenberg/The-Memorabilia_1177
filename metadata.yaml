@@ -1,0 +1,45 @@
+_repo: The-Memorabilia_1177
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Dakyns, Henry Graham
+    aliases:
+    - Dakyns, Henry G. (Henry Graham)
+    - Dakyns, H. G. (Henry Graham)
+    birthdate: 1838
+    deathdate: 1911
+    gutenberg_agent_id: '544'
+    url: http://www.gutenberg.org/2009/agents/544
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Graham_Dakyns
+creator:
+  author:
+    agent_name: Xenophon
+    alias: Ξενοφών
+    birthdate: -431
+    deathdate: -355
+    gutenberg_agent_id: '543'
+    url: http://www.gutenberg.org/2009/agents/543
+    wikipedia: http://en.wikipedia.org/wiki/Xenophon
+description: An essential text for understanding Socrates, Xenophon's Memorabilia
+  is the compelling tribute of an affectionate student to his teacher, providing a
+  rare firsthand account of Socrates' life and philosophy. The Memorabilia is invaluable
+  both as a work of philosophy in its own right and as a complement to the study of
+  Plato's dialogues. The longest of Xenophon's four Socratic works, it is particularly
+  revealing about the differences between Socrates and his philosophical predecessors.
+gutenberg_issued: '1998-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1177'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Philosophers, Ancient -- Biography -- Early works to 1800'
+- !lcsh 'Socrates -- Trials, litigation, etc. -- Early works to 1800'
+- !lcc 'B'
+- !lcsh 'Classical literature'
+- GITenberg
+title: The Memorabilia
+url: http://www.gutenberg.org/ebooks/1177
